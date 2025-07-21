@@ -1,0 +1,23 @@
+{
+  "groupId": "groupeA",
+  "theme": "sport",
+  "defaultDisplayInGrid": false,
+  "images": [
+    {
+      "filename": "derriere-2x.png",
+      "title": "championnat de zone brives 2025",
+      "description": "Equipage du toulouse université club.",
+      "displayInGrid": true
+    },
+    {
+      "filename": "arche-1x.png",
+      "title": "championnat de zone brives 2025",
+      "description": "Equipage du toulouse université club."
+    },
+    {
+      "filename": "arrivee-2x-v1.png",
+      "title": "championnat de zone brives 2025",
+      "description": "Equipage du toulouse université club."
+    }
+  ]
+}
