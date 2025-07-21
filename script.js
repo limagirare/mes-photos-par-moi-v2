@@ -140,13 +140,83 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         {
             id: 13,
-            src: 'img/ville2.jpg',
-            thumb: 'img/ville2.jpg',
-            title: 'Toulouse by night',
-            description: 'Promenade nocturne dans les rues de Toulouse.',
+            src: 'img/san_jordi/escudo.jpg',
+            thumb: 'img/san_jordi/escudo.jpg',
+            title: 'la san jordi 2024 a Barcelonne',
+            description: 'Fete traditionelle catalane.',
+            theme: 'ville',
+            groupId: 'groupeE', // Peut avoir un groupId unique pour les photos indépendantes
+            displayInGrid: true // Seulement visible dans le carrousel
+        },
+        {
+            id: 14,
+            src: 'img/san_jordi/casabatloo.jpg',
+            thumb: 'img/san_jordi/casabatloo.jpg',
+            title: 'la san jordi 2024 a Barcelonne',
+            description: 'Fete traditionelle catalane.',
             theme: 'ville',
             groupId: 'groupeE', // Peut avoir un groupId unique pour les photos indépendantes
             displayInGrid: false // Seulement visible dans le carrousel
+        },
+        {
+            id: 15,
+            src: 'img/san_jordi/taula.jpg',
+            thumb: 'img/san_jordi/taula.jpg',
+            title: 'la san jordi 2024 a Barcelonne',
+            description: 'Fete traditionelle catalane.',
+            theme: 'ville',
+            groupId: 'groupeE', // Peut avoir un groupId unique pour les photos indépendantes
+            displayInGrid: false // Toujours visible dans la grille
+        },
+        {
+            id: 16,
+            src: 'img/san_jordi/llibres.jpg',
+            thumb: 'img/san_jordi/llibres.jpg',
+            title: 'la san jordi 2024 a Barcelonne',
+            description: 'Fete traditionelle catalane.',
+            theme: 'ville',
+            groupId: 'groupeE', // Peut avoir un groupId unique pour les photos
+            displayInGrid: false // Toujours visible dans la grille
+        },
+        {
+            id: 17,
+            src: 'img/san_jordi/estudis.jpg',
+            thumb: 'img/san_jordi/estudis.jpg',
+            title: 'la san jordi 2024 a Barcelonne',
+            description: 'Fete traditionelle catalane.',
+            theme: 'ville',
+            groupId: 'groupeE', // Peut avoir un groupId unique pour les photos
+            displayInGrid: false // Toujours visible dans la grille
+        },
+        {
+            id: 18,
+            src: 'img/san_jordi/teulat.jpg',
+            thumb: 'img/san_jordi/teulat.jpg',
+            title: 'la san jordi 2024 a Barcelonne',
+            description: 'Fete traditionelle catalane.',
+            theme: 'ville',
+            groupId: 'groupeE', // Peut avoir un groupId unique pour les photos
+            displayInGrid: false // Toujours visible dans la grille
+        },
+        {
+            id: 19,
+            src: 'img/san_jordi/roses.jpg',
+            thumb: 'img/san_jordi/roses.jpg',
+            title: 'la san jordi 2024 a Barcelonne',
+            description: 'Fete traditionelle catalane.',
+            theme: 'ville',
+            groupId: 'groupeE', // Peut avoir un groupId unique pour les photos
+            displayInGrid: false // Toujours visible dans la grille
+        },
+        {
+            id: 20,
+            src: 'img/san_jordi/cent.jpg',
+            thumb: 'img/san_jordi/cent.jpg',
+            title: 'la san jordi 2024 a Barcelonne',
+            description: 'Fete traditionelle catalane.',
+            theme: 'ville',
+            groupId: 'groupeE', // Peut avoir un groupId unique pour les photos
+            displayInGrid: false // Toujours visible dans la grille
         }
     ];
 
