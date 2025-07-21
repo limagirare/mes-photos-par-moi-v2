@@ -217,6 +217,86 @@ document.addEventListener('DOMContentLoaded', () => {
             theme: 'ville',
             groupId: 'groupeE', // Peut avoir un groupId unique pour les photos
             displayInGrid: false // Toujours visible dans la grille
+        },
+        {
+            id: 21,
+            src: 'img/mainlumiere.jpg',
+            thumb: 'img/mainlumiere.jpg',
+            title: 'main à la lumière',
+            description: '',
+            theme: 'mix',
+            groupId: 'groupeF', // Peut avoir un groupId unique pour les photos
+            displayInGrid: true // Toujours visible dans la grille
+        },
+        {
+            id: 22,
+            src: 'img/enfant_madrid.jpg',
+            thumb: 'img/enfant_madrid.jpg',
+            title: 'enfant à Madrid',
+            description: 'enfant à Madrid',
+            theme: 'art',
+            groupId: 'groupeG', // Peut avoir un groupId unique pour les photos
+            displayInGrid: true // Toujours visible dans la grille
+        },
+        {
+            id: 23,
+            src: 'img/cartoucherelibrairie.jpg',
+            thumb: 'img/cartoucherelibrairie.jpg',
+            title: 'reflet dans une librairie',
+            description: 'halles de la cartoucherie à Toulouse',
+            theme: 'ville',
+            groupId: 'groupeH', // Peut avoir un groupId unique pour les photos
+            displayInGrid: true // Toujours visible dans la grille
+        },
+        {
+            id: 24,
+            src: 'img/arcenciel.jpg',
+            thumb: 'img/arcenciel.jpg',
+            title: 'immeubles toulousains',
+            description: '',
+            theme: 'ville',
+            groupId: 'groupeI', // Peut avoir un groupId unique pour les photos
+            displayInGrid: true // Toujours visible dans la grille
+        },
+        {
+            id: 25,
+            src: 'img/mephisto.jpg',
+            thumb: 'img/mephisto.jpg',
+            title: 'immeubles toulousains',
+            description: '',
+            theme: 'ville',
+            groupId: 'groupeI', // Peut avoir un groupId unique pour les photos
+            displayInGrid: false // Toujours visible dans la grille
+        },
+        {
+            id: 26,
+            src: 'img/velo.jpg',
+            thumb: 'img/velo.jpg',
+            title: 'immeubles toulousains',
+            description: '',
+            theme: 'ville',
+            groupId: 'groupeI', // Peut avoir un groupId unique pour les photos
+            displayInGrid: false // Toujours visible dans la grille
+        },
+        {
+            id: 27,
+            src: 'img/reflet-monuments-morts.jpg',
+            thumb: 'img/reflet-monuments-morts.jpg',
+            title: 'immeubles toulousains',
+            description: '',
+            theme: 'ville',
+            groupId: 'groupeI', // Peut avoir un groupId unique pour les photos
+            displayInGrid: false // Toujours visible dans la grille
+        },
+        {
+            id: 28,
+            src: 'img/bnp.jpg',
+            thumb: 'img/bnp.jpg',
+            title: 'immeubles toulousains',
+            description: '',
+            theme: 'ville',
+            groupId: 'groupeI', // Peut avoir un groupId unique pour les photos
+            displayInGrid: false // Seulement visible dans le carrousel
         }
     ];
 
